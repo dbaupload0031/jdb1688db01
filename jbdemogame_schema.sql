@@ -5,7 +5,7 @@
 --   DB Connect String  : JBDEV 
 --   Schema             : JBDEMOGAME 
 --   Script Created by  : SYSTEM 
---   Script Created at  : 2018/10/17 ¤W¤È 11:03:58 
+--   Script Created at  : 2018/10/17 Â¤WÂ¤Ãˆ 11:03:58 
 --   Physical Location  :  
 --   Notes              :  
 --
@@ -23156,9 +23156,9 @@ STORAGE    (
 
 COMMENT ON COLUMN JBDEMOGAME.MACHINETYPE.MOBILE_VISIBLE IS 'for Mobile View-order';
 
-COMMENT ON COLUMN JBDEMOGAME.MACHINETYPE.WINSTAR_SMALL IS '¤p¼ú¾÷²v´«ºâ¬P¬P¼Æ';
+COMMENT ON COLUMN JBDEMOGAME.MACHINETYPE.WINSTAR_SMALL IS 'Â¤pÂ¼ÃºÂ¾Ã·Â²vÂ´Â«ÂºÃ¢Â¬PÂ¬PÂ¼Ã†';
 
-COMMENT ON COLUMN JBDEMOGAME.MACHINETYPE.WINSTAR_MIDDLE IS '¤¤¼ú¾÷²v´«ºâ¬P¬P¼Æ';
+COMMENT ON COLUMN JBDEMOGAME.MACHINETYPE.WINSTAR_MIDDLE IS 'Â¤Â¤Â¼ÃºÂ¾Ã·Â²vÂ´Â«ÂºÃ¢Â¬PÂ¬PÂ¼Ã†';
 
 COMMENT ON COLUMN JBDEMOGAME.MACHINETYPE.STREAMING_GAME IS 'for detect live streaming game 0: false, 1:true';
 
